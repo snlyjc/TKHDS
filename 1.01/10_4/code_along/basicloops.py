@@ -1,2 +1,4 @@
-# TODO: implement basic loops here
-...
+# TODO: implement basic loops here  
+print("hello world")
+
+print('test')
